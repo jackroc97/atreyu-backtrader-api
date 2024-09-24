@@ -208,7 +208,7 @@ class HistBar(object):
         self.low = bar.low
         self.close = bar.close
         self.volume = bar.volume
-        self.wap = bar.wap
+        #self.wap = bar.wap
         self.count = bar.barCount
 
     def __str__(self):
