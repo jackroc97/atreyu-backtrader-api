@@ -190,7 +190,7 @@ class RTBar(object):
         self.low = low
         self.close = close
         self.volume = volume
-        self.wap = wap
+        #self.wap = wap
         self.count = count
 
     def __str__(self):
