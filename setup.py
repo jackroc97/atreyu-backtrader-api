@@ -20,7 +20,7 @@ setup(
     name='atreyu_backtrader_api',
     version=version,
     packages=['atreyu_backtrader_api'],
-    url='https://github.com/atreyuxtrading/atreyu-backtrader-api',
+    url='https://github.com/jackroc97/atreyu-backtrader-api.git',
     license='Simplified BSD license',
     author='Atreyu Trading',
     author_email='info@atreyugroup.com',
